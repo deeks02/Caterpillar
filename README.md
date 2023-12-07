@@ -1,4 +1,4 @@
-## Caterpillar Game  
+# Caterpillar Game  
 A simple Python game using the turtle module, where a hungry caterpillar moves around the screen to eat leaves.
 
 ## Overview
